@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "simple-array-sum/1.0.0": {
+        "runtime": {
+          "simple-array-sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "simple-array-sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

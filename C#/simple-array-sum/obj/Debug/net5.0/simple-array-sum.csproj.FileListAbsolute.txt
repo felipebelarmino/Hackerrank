@@ -1,0 +1,16 @@
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\simple-array-sum\bin\Debug\net5.0\simple-array-sum.exe
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\simple-array-sum\bin\Debug\net5.0\simple-array-sum.deps.json
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\simple-array-sum\bin\Debug\net5.0\simple-array-sum.runtimeconfig.json
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\simple-array-sum\bin\Debug\net5.0\simple-array-sum.runtimeconfig.dev.json
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\simple-array-sum\bin\Debug\net5.0\simple-array-sum.dll
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\simple-array-sum\bin\Debug\net5.0\ref\simple-array-sum.dll
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\simple-array-sum\bin\Debug\net5.0\simple-array-sum.pdb
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\simple-array-sum\obj\Debug\net5.0\simple-array-sum.csprojAssemblyReference.cache
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\simple-array-sum\obj\Debug\net5.0\simple-array-sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\simple-array-sum\obj\Debug\net5.0\simple-array-sum.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\simple-array-sum\obj\Debug\net5.0\simple-array-sum.AssemblyInfo.cs
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\simple-array-sum\obj\Debug\net5.0\simple-array-sum.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\simple-array-sum\obj\Debug\net5.0\simple-array-sum.dll
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\simple-array-sum\obj\Debug\net5.0\ref\simple-array-sum.dll
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\simple-array-sum\obj\Debug\net5.0\simple-array-sum.pdb
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\simple-array-sum\obj\Debug\net5.0\simple-array-sum.genruntimeconfig.cache
