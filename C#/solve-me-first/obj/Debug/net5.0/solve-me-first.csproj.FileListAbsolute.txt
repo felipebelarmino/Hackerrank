@@ -1,0 +1,16 @@
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\solve-me-first\bin\Debug\net5.0\solve-me-first.exe
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\solve-me-first\bin\Debug\net5.0\solve-me-first.deps.json
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\solve-me-first\bin\Debug\net5.0\solve-me-first.runtimeconfig.json
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\solve-me-first\bin\Debug\net5.0\solve-me-first.runtimeconfig.dev.json
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\solve-me-first\bin\Debug\net5.0\solve-me-first.dll
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\solve-me-first\bin\Debug\net5.0\ref\solve-me-first.dll
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\solve-me-first\bin\Debug\net5.0\solve-me-first.pdb
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\solve-me-first\obj\Debug\net5.0\solve-me-first.csprojAssemblyReference.cache
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\solve-me-first\obj\Debug\net5.0\solve-me-first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\solve-me-first\obj\Debug\net5.0\solve-me-first.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\solve-me-first\obj\Debug\net5.0\solve-me-first.AssemblyInfo.cs
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\solve-me-first\obj\Debug\net5.0\solve-me-first.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\solve-me-first\obj\Debug\net5.0\solve-me-first.dll
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\solve-me-first\obj\Debug\net5.0\ref\solve-me-first.dll
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\solve-me-first\obj\Debug\net5.0\solve-me-first.pdb
+C:\Users\Felipe\Documents\diretorioGit\Desafios HackerRank\C#\solve-me-first\obj\Debug\net5.0\solve-me-first.genruntimeconfig.cache

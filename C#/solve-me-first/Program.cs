@@ -1,11 +1,10 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 class Solution {
 
     static int solveMeFirst(int a, int b) { 
-      return a + b;
-      
+      return a + b;      
     }
 
     static void Main(String[] args) {

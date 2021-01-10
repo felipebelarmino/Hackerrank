@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "solve-me-first/1.0.0": {
+        "runtime": {
+          "solve-me-first.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "solve-me-first/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
